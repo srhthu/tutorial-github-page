@@ -19,3 +19,8 @@ This is a json format data.
 ![My photo](/mascot.jpg)
 
 This is a link [GitHub](https://github.com)
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
