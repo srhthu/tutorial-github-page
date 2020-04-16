@@ -16,4 +16,4 @@ This is a json format data.
   "key2": xixi
 }
 ```
-![My photo](/image.png)
+![My photo](/mascot.png)
