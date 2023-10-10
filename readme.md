@@ -7,3 +7,5 @@ To publish a repository, go to `Settings/Pages` to config. For example, the repo
 ### Basic
 Github page will render the default html file `index.html` in the repository. It can accessed other files, e.g., `main.css` or `index.js` through the relative position.
 
+> Priority:  
+> If "index.md" and "index.html" both exist, "index.md" will be rendered.
